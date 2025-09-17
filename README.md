@@ -24,7 +24,8 @@ Proof of concept for a smart digital wardrobe. Demonstrates:
 1. Clone and install:  
    ```bash
    git clone https://github.com/YOUR-USERNAME/wearhouse-poc.git
-   cd wearhouse-poc && npm install
+   cd wearhouse-poc 
+   npm install
    ```
 2. Create Supabase project, bucket `items`, and `items` table.  
 3. Add `.env` in root:  
