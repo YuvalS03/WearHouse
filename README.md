@@ -52,4 +52,4 @@ Proof of concept for a smart digital wardrobe. Demonstrates:
 
 
 
-Disclaimer: some code in this repo was generated using AI
+Disclaimer: Some code in this repository was generated using AI.
