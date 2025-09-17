@@ -17,6 +17,10 @@ Proof of concept for a smart digital wardrobe. Demonstrates:
 ---
 
 ## Setup
+0. Version:
+   Microsoft Windows 10, Version 22H2 (OS Build 19045.6332)
+   npm Version 10.5.0
+   node Version 20.13.1
 1. Clone and install:  
    ```bash
    git clone https://github.com/YOUR-USERNAME/wearhouse-poc.git
