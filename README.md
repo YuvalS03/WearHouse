@@ -22,7 +22,7 @@ Proof of concept for a smart digital wardrobe. Demonstrates:
    git clone https://github.com/YOUR-USERNAME/wearhouse-poc.git
    cd wearhouse-poc && npm install
    ```
-2. Create Supabase project, bucket `items`, and `items` table (see SQL in docs).  
+2. Create Supabase project, bucket `items`, and `items` table.  
 3. Add `.env` in root:  
    ```
    VITE_SUPABASE_URL=your-url
@@ -47,3 +47,9 @@ Proof of concept for a smart digital wardrobe. Demonstrates:
 - Metadata saved in DB.  
 - Items display in grid.  
 - “Suggest Outfit” picks a top + bottom using mock calendar/weather.  
+
+
+
+
+
+Disclaimer: some code in this repo was generated using AI
